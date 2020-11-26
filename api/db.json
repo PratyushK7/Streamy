@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "MyStream",
+      "description": "Sugooiii",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "Descriptionnnnn",
+      "id": 2
+    },
+    {
+      "title": "Number 3",
+      "description": "HahahaHAHAHAhh",
+      "id": 3
+    },
+    {
+      "title": "VFX",
+      "description": "Hiiii",
+      "userId": "111910888478414780718",
+      "id": 6
+    }
+  ]
+}
